@@ -7,7 +7,6 @@ This is my solution to the [Testimonials grid section challenge on Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,10 +25,6 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Version](./desktop-version.png)
-
-### Links
-
-- Live Site URL: [](http://127.0.0.1:5501/)
 
 ## My process
 
