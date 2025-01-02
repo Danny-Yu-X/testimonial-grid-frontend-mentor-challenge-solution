@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-While working through this project, some of my major learnings were figuring out how to properly display each testimonial section on a website while styling each one with specific colors and fonts. Additionally, I learned how to utilize CSS flexbox to my advantage in order to properly implement a mobile and desktop design.
+While working through this project, some of my major learnings were figuring out how to properly display each testimonial section on a website while styling each one with specific colors and fonts. Additionally, I learned how to utilize CSS Flexbox to my advantage in order to properly implement a mobile and desktop design.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
